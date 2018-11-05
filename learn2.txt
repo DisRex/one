@@ -4,9 +4,13 @@ mathmatics people have been done their work, so they push first!
 
 learn git is easy~
 
+<<<<<<< HEAD
 New Line 88
 
 LOL
 
 okok
 
+=======
+New Line 88
+>>>>>>> parent of 7a3ab86... Update learn2.txt
